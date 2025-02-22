@@ -1,0 +1,1 @@
+This repository contains frontend project for the alx software engineering program
